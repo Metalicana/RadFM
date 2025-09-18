@@ -1,512 +1,512 @@
 image_path,prompt,prediction
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG017.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG133.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG046.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG377.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG170.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG205.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG265.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG174.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG500.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG387.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG155.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG007.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG134.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG509.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG404.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG063.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG408.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG186.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG223.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG216.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG051.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG430.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG165.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG266.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG176.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG289.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG333.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG313.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG329.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG213.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG490.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG409.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG250.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG187.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG107.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG480.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG356.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG225.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG399.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG302.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG397.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG237.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG168.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG235.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG403.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG109.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG301.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG137.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG179.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG043.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG493.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG052.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG090.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG160.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG411.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG294.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG084.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG275.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG506.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG475.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG088.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG393.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG314.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG281.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG023.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG257.tif,What is the ACR density for this mammograpy image?,ACR B
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG371.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG148.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG175.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG070.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG391.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG285.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG288.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG127.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG053.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG215.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG138.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG451.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG335.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG065.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG315.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG048.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG256.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG414.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG308.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG050.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG177.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG380.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG099.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG027.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG212.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG312.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG424.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG440.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG344.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG097.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG482.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG276.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG206.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG037.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG337.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG358.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG465.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG283.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG449.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG369.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG345.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG214.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG163.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG098.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG481.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG460.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG073.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG350.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG307.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG218.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG429.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG422.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG008.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG331.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG384.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG347.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG464.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG443.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG420.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG418.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG259.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG249.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG318.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG431.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG067.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG062.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG056.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG110.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG327.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG264.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG055.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG018.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG154.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG374.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG457.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG145.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG224.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG079.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG467.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG080.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG304.tif,What is the ACR density for this mammograpy image?,ACR Density: 2.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG290.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG021.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG064.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG117.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG279.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG494.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG353.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG036.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG197.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG059.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG383.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG461.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG445.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG476.tif,What is the ACR density for this mammograpy image?,ACR c.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG182.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG173.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG251.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG006.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG263.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG436.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG071.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG028.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG272.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG499.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG035.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG487.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG201.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG115.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG078.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG226.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG438.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG247.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG442.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG140.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG299.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG195.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (1)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG234.tif,What is the ACR density for this mammograpy image?,ACR c.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG015.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG394.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG268.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG334.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG435.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG151.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG425.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG273.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG136.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG354.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG049.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG001.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG208.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG004.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG363.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG432.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG111.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG129.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG300.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG360.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG150.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG093.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG116.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG209.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG373.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG450.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG232.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG351.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG485.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG072.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG311.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG104.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG446.tif,What is the ACR density for this mammograpy image?,ACR B
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG152.tif,What is the ACR density for this mammograpy image?,ACR c.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG227.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG207.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG190.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG243.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG271.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG323.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG282.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG231.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG092.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG106.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG423.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG222.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG096.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG310.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG200.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG113.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG125.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG375.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG437.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG010.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG359.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG144.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG278.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG501.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG238.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG365.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG033.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG258.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG038.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG074.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG180.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG417.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG261.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG077.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG211.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG091.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG386.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG178.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG340.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG123.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG508.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG292.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG044.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG379.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG025.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG492.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG246.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG039.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG082.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG132.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG013.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG279 - Copy.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG252.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG510.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG058.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG040.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG184.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG401.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG297.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG193.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG426.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG362.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG320.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG005.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG120.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG230.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG119.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG407.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG100.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG367.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG260.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG269.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG158.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG402.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG245.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG217.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG095.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG016.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG463.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG041.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG131.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG171.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG504.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG303.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG121.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG370.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG491.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG183.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG324.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG019.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG433.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG094.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG389.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG473.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG427.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG060.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG149.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG441.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG003.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG478.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG032.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG419.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG253.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG221.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG456.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG496.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG486.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG185.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG346.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG405.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG126.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG462.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG128.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG233.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG309.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG188.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG191.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG219.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG122.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG484.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG298.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG089.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG352.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG448.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG034.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG421.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG267.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG483.tif,What is the ACR density for this mammograpy image?,ACR Density: 2.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG459.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG075.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG202.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG162.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG014.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG142.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG164.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG069.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG348.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG366.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG453.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG305.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG471.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG479.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG439.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG392.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG244.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG342.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG031.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG103.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG274.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG349.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG189.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG240.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG472.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG343.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG045.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG159.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG368.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG220.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG395.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG468.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG228.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG112.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG326.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG505.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG416.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG241.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG396.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG466.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG002.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG336.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG406.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG381.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG066.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG194.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG108.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG341.tif,What is the ACR density for this mammograpy image?,BIRADS 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG236.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG146.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG054.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG454.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG328.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG105.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG203.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG061.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG081.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG042.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG196.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG085.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG447.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG287.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG477.tif,What is the ACR density for this mammograpy image?,ACR c density
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG455.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG322.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG458.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG361.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG248.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG498.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG124.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG181.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG153.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG332.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG076.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG147.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG330.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG087.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG317.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG434.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG255.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG325.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG502.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG355.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG495.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG452.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG306.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG029.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG192.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG204.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG385.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG026.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG262.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG339.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG114.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG398.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG338.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG229.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG382.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG254.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG057.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG319.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG199.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG020.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG157.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG242.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG156.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG198.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG083.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG444.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG400.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG161.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG239.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG507.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG047.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG102.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG390.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: BIRADS 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG428.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG489.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG141.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG166.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG172.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG295.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG270.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG130.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG388.tif,What is the ACR density for this mammograpy image?,Score 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG012.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG135.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: BIRADS 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG413.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG470.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG143.tif,What is the ACR density for this mammograpy image?,ACR Density: 2.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG210.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: BIRADS 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG378.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG286.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG022.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG412.tif,What is the ACR density for this mammograpy image?,ACR BIRADS density classification: negative (ACR b)
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG167.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG280.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG169.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG376.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG291.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG497.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG488.tif,What is the ACR density for this mammograpy image?,ACR D
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG415.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG357.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG086.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG364.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG009.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG030.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG321.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG277.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG293.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG316.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG011.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG101.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG474.tif,What is the ACR density for this mammograpy image?,ACR c.
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG503.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG296.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG068.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG139.tif,What is the ACR density for this mammograpy image?,ACR 2
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG372.tif,What is the ACR density for this mammograpy image?,Scattered areas of fibroglandular density (ACR b).
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG284.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG469.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG118.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG410.tif,What is the ACR density for this mammograpy image?,birads negative
-/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG024.tif,What is the ACR density for this mammograpy image?,birads negative
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG017.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG133.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG046.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG377.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG170.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG205.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG265.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG174.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG500.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG387.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG155.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG007.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG134.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG509.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG404.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG063.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG408.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG186.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG223.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG216.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG051.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG430.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG165.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG266.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG176.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG289.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG333.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG313.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG329.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG213.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG490.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG409.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG250.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG187.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG107.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG480.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG356.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG225.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG399.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG302.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG397.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG237.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG168.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG235.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG403.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG109.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG301.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG137.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG179.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG043.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG493.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG052.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG090.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG160.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG411.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG294.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG084.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG275.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG506.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG475.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG088.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG393.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG314.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG281.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG023.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG257.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG371.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG148.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG175.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG070.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG391.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG285.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG288.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG127.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG053.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG215.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG138.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG451.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG335.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG065.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG315.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG048.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG256.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG414.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG308.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG050.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG177.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG380.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG099.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG027.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG212.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG312.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG424.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG440.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG344.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG097.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG482.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG276.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG206.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG037.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG337.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG358.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG465.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG283.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG449.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG369.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG345.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG214.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG163.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG098.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG481.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG460.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG073.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG350.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG307.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG218.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG429.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG422.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG008.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG331.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG384.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG347.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG464.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG443.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG420.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG418.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG259.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG249.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG318.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG431.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG067.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG062.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG056.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG110.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG327.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG264.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG055.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG018.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG154.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG374.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG457.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG145.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG224.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG079.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG467.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG080.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG304.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG290.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG021.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG064.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG117.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG279.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG494.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG353.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG036.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG197.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG059.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG383.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG461.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG445.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG476.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG182.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG173.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG251.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG006.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG263.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG436.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG071.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG028.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG272.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG499.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG035.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG487.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG201.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG115.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG078.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG226.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG438.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG247.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG442.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG140.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG299.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG195.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG234.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG015.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG394.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG268.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG334.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG435.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG151.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG425.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG273.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG136.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG354.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG049.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG001.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG208.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG004.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG363.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG432.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG111.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG129.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG300.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG360.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG150.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG093.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG116.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG209.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG373.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG450.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG232.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG351.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG485.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG072.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG311.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG104.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG446.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG152.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG227.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG207.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG190.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG243.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG271.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG323.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG282.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG231.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG092.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG106.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG423.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG222.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG096.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG310.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG200.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG113.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG125.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG375.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG437.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG010.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG359.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG144.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG278.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG501.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG238.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG365.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG033.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG258.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG038.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG074.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG180.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG417.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG261.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG077.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG211.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG091.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG386.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG178.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG340.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG123.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG508.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG292.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG044.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG379.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG025.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG492.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG246.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG039.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG082.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG132.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG013.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG279 - Copy.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG252.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG510.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG058.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG040.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG184.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG401.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG297.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG193.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG426.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG362.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG320.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG005.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG120.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG230.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG119.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG407.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG100.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG367.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG260.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG269.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG158.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG402.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG245.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG217.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG095.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG016.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG463.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG041.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG131.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG171.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG504.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG303.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG121.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG370.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG491.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG183.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG324.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG019.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG433.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG094.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG389.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG473.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG427.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG060.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG149.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG441.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG003.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG478.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG032.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG419.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG253.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG221.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG456.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG496.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG486.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG185.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG346.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG405.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG126.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG462.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG128.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG233.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG309.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG188.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG191.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG219.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG122.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG484.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG298.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG089.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG352.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG448.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG034.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG421.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG267.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG483.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG459.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG075.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG202.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG162.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG014.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG142.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG164.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG069.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG348.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG366.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG453.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG305.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG471.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG479.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG439.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG392.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG244.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG342.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG031.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG103.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG274.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG349.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG189.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG240.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG472.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG343.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG045.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG159.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG368.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG220.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG395.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG468.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG228.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG112.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG326.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG505.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG416.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG241.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG396.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG466.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG002.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG336.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG406.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG381.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG066.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG194.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG108.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG341.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG236.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG146.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG054.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG454.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG328.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG105.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG203.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG061.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG081.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG042.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG196.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG085.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG447.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG287.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG477.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG455.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG322.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG458.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG361.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG248.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG498.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG124.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG181.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG153.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG332.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG076.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG147.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG330.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG087.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG317.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG434.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG255.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG325.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG502.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG355.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG495.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG452.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG306.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG029.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG192.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG204.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG385.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG026.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG262.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG339.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG114.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG398.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG338.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG229.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG382.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG254.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG057.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG319.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG199.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG020.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG157.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG242.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG156.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG198.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG083.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG444.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG400.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG161.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG239.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG507.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG047.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG102.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG390.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG428.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG489.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG141.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG166.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG172.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG295.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG270.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG130.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG388.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG012.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG135.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG413.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG470.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG143.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG210.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG378.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG286.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG022.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG412.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG167.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG280.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG169.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG376.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG291.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG497.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG488.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG415.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG357.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG086.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG364.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG009.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG030.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG321.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG277.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG293.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG316.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG011.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG101.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG474.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG503.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG296.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG068.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG139.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG372.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG284.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG469.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG118.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG410.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",1
+/home/ab575577/projects_fall_2025/mammochat/datasets/DMID/archive/TIFF Images/TIFF Images/IMG024.tif,"What is the ACR density for this mammograpy image? Give your prediction among A, B, C and D ",
