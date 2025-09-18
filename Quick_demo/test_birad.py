@@ -68,7 +68,7 @@ def main():
     model = model.to("cuda").eval()
 
     # Fixed prompt
-    question = "What is the BIRADS score for this mammograpy image"
+    question = "What is the BIRADS score for this mammograpy image?"
 
     # Load image list from CSV
     image_csv = "../src/dmid_test.csv"
