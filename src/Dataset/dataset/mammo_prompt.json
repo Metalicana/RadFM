@@ -20,6 +20,7 @@
             "What are your conclusions from this breast X-ray?",
             "What is your interpretation of this breast X-ray?",
             "What abnormalities are present in this breast X-ray?",
-            "What is the differential diagnosis for the findings in this breast X-ray?"
+            "What is the differential diagnosis for the findings in this breast X-ray?",
+            "You are an expert radiologist. Analyze the mammogram and provide a detailed report of your findings."
             ]
 }
