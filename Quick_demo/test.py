@@ -77,12 +77,14 @@ def main():
         image_paths = [row["image_path"] for row in reader]
 
     # Output results
+    print("Start testing")
     with open("output_dmid_demo.csv", "w", newline="") as outf:
         writer = csv.writer(outf)
         writer.writerow(["image_path", "prompt", "prediction"])
 
         for img_path in tqdm.tqdm(image_paths):
             try:
+                print("testing image:", img_path)
                 text, vision_x = combine_and_preprocess(question, img_path, image_padding_tokens)
                 lang_x = tokenizer(text, max_length=2048, truncation=True, return_tensors="pt")["input_ids"].to("cuda")
                 vision_x = vision_x.to("cuda")
@@ -94,6 +96,8 @@ def main():
                 writer.writerow([img_path, question, pred])
             except Exception as e:
                 writer.writerow([img_path, question, f"[ERROR: {e}]"])
+            
+            print("Testing completed for image:", img_path)
 
     print("Saved predictions to output_dmid_demo.csv")
 
