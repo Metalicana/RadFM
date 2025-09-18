@@ -71,14 +71,14 @@ def main():
     question = "You are an expert radiologist.Generate a radiology report for this mammogram."
 
     # Load image list from CSV
-    image_csv = "../src/dmid_test.csv"
+    image_csv = "../src/cdd_test.csv"
     with open(image_csv, "r") as f:
         reader = csv.DictReader(f)
         image_paths = [row["image_path"] for row in reader]
 
     # Output results
     print("Start testing")
-    with open("output_dmid_demo.csv", "w", newline="") as outf:
+    with open("output_cdd_report.csv", "w", newline="") as outf:
         writer = csv.writer(outf)
         writer.writerow(["image_path", "prompt", "prediction"])
 
@@ -99,7 +99,7 @@ def main():
             
             print("Testing completed for image:", img_path)
 
-    print("Saved predictions to output_dmid_demo.csv")
+    print("Saved predictions to output_cdd_demo.csv")
 
 
 if __name__ == "__main__":
